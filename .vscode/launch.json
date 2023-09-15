@@ -1,0 +1,153 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP5.Agricultores.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Persona",
+            "request": "launch",
+            "mainClass": "TP1.Persona",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "PuntoGeometrico",
+            "request": "launch",
+            "mainClass": "TP1.PuntoGeometrico",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Rectangulo",
+            "request": "launch",
+            "mainClass": "TP1.Rectangulo",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Reunion",
+            "request": "launch",
+            "mainClass": "TP2.AgendaPersonal.Reunion",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP2.GastosPublicos.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "TP2.Peluqueria.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "TP2.Series.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "TP3.FabricaMuebles.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "SesionJuego",
+            "request": "launch",
+            "mainClass": "TP3.JuegoPersonajes.SesionJuego",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "TP4.Avicola.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "TP4.RegistroEmpresa.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "TP4.Sueldos.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "TP5.EscuelaMagia.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "TP5.PilaElementos.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "TPE.Main",
+            "projectName": "Programacion 2_16885728"
+        }
+    ]
+}
