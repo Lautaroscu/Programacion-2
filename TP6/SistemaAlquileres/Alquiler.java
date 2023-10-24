@@ -47,4 +47,19 @@ public class Alquiler {
         return item;
     }
 
+    // public void alquilarItem(Item i1) {
+    // if (sePuedeAlquilar(i1)) {
+    // setItem(i1);
+    // setCliente(cliente);
+    // } else {
+    // System.out.println("El item no estaba disponible");
+    // }
+
+    // }
+
+    // private boolean sePuedeAlquilar(Item i1) {
+    // // aca se va a ejecutar el metodo q corresponda dependiendo si es vehiculo o
+    // // pelicula
+    // return i1.sePuedeAlquilar();
+    // }
 }

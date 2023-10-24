@@ -1,6 +1,5 @@
 package TPE;
 
-import java.util.Iterator;
 
 public class Node<T> {
     private T element;

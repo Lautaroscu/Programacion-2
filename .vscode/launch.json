@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "TP7.BusquedaDocumentos.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP7.Agroquimicos.Main",
+            "projectName": "Programacion 2_16885728"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "TP5.Agricultores.Main",
             "projectName": "Programacion 2_16885728"
         },
